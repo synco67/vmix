@@ -1,7 +1,7 @@
-?Function=CutDirect
-regel 1
-regel 2
-regel 3
+?Function=Cut
+?Function=Fade
+?Function=Fullscreen
+?Function=Fade&Input=0&Duration=500&Mix=0
 regel 4
 regel 5
 regel 6
